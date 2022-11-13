@@ -1,0 +1,15 @@
+# Java 第一节课
+
+## 1，学习了Typora一些基本操作和快捷方式
+
+1. 一级标题ctrl+1
+2. 二级标题ctrl+2
+3. 三级标题ctrl+3
+4. 一键生成表格ctrl+t
+5. 字体加粗ctrl+b
+6. 有序序号ctrl+shift+{
+7. 无需序号ctrl+shift+}
+
+## 2、学习了如何使用github
+
+如怎样上传代码
